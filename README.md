@@ -1,5 +1,5 @@
 # :zap: Neuron membrane potentials: 
-(Videos from Khan Academy)
+(Eight short videos from Khan Academy)
 
 1. [Neuron graded potential description](https://www.khanacademy.org/test-prep/mcat/organ-systems/neuron-membrane-potentials/v/neuron-graded-potential-description)
 2. [Neuron resting potential description](https://www.khanacademy.org/test-prep/mcat/organ-systems/neuron-membrane-potentials/v/neuron-resting-potential-description)
