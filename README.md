@@ -10,5 +10,6 @@
 7. [Effects of axon diameter and myelination](https://www.youtube.com/watch?v=_Lj_F9GADa4)
 8. [Action potential patterns](https://www.youtube.com/watch?v=jM-gvSqsP5A)
 
-To remember, "the neuron as a banana in a salty milk pool" always works for me!
+To remember, **the neuron as a banana in a salty milk pool** always works for!
+
 ![Alt text](https://github.com/zahramor/learn_neuro/blob/main/docs/neuron_banana.jpg)
