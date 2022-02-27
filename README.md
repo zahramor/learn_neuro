@@ -7,5 +7,5 @@
 4. [Neuron graded potential mechanism](https://www.youtube.com/watch?v=NaAwVrOEyss)
 5. [Neuron action potential description](https://www.youtube.com/watch?v=h2H6POZowiU)
 6. [Neuron action potential mechanism](https://www.youtube.com/watch?v=MZz4OUOyFvg)
-7. [Effects of axon diameter and myelination)[https://www.youtube.com/watch?v=_Lj_F9GADa4)
+7. [Effects of axon diameter and myelination](https://www.youtube.com/watch?v=_Lj_F9GADa4)
 8. [Action potential patterns](https://www.youtube.com/watch?v=jM-gvSqsP5A)
