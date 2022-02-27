@@ -1,4 +1,4 @@
-# 📺 Neuron membrane potentials: 
+# :zap: Neuron membrane potentials: 
 (Videos from Khan Academy)
 
 1. [Neuron graded potential description](https://www.khanacademy.org/test-prep/mcat/organ-systems/neuron-membrane-potentials/v/neuron-graded-potential-description)
@@ -16,4 +16,4 @@ To remember, **the neuron as a banana in a salty milk pool** always works for!
 
 <br />
 
-# :dragon: Neuroanatomy:
+# :brain: Neuroanatomy:
