@@ -1,2 +1,2 @@
-# learn_neuro
-Tutorials I found helpful while learning neuro-related topics during my PhD
+# Action potential mechanism in neurons (videos from Khanacademy)
+1. 
