@@ -13,3 +13,7 @@
 To remember, **the neuron as a banana in a salty milk pool** always works for!
 
 ![Alt text](https://github.com/zahramor/learn_neuro/blob/main/docs/neuron_banana.jpg)
+
+<br />
+
+# :dragon: Neuroanatomy:
