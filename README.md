@@ -19,7 +19,3 @@ To remember, **the neuron as a banana in a salty milk pool** always works for!
 # :brain: Neuroanatomy:
 
 <br />
-
-# :mag_right: Neuroimaging:
-
-<br />
