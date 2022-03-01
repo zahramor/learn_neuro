@@ -1,5 +1,6 @@
-# :zap: Neuron membrane potentials: 
-(Eight short videos from Khan Academy)
+# :zap: Neurophysiology
+ 
+ **1) Neuron membrane potentials (Eight short videos from Khan Academy):**
 
 1. [Neuron graded potential description](https://www.khanacademy.org/test-prep/mcat/organ-systems/neuron-membrane-potentials/v/neuron-graded-potential-description)
 2. [Neuron resting potential description](https://www.khanacademy.org/test-prep/mcat/organ-systems/neuron-membrane-potentials/v/neuron-resting-potential-description)
@@ -10,12 +11,10 @@
 7. [Effects of axon diameter and myelination](https://www.youtube.com/watch?v=_Lj_F9GADa4)
 8. [Action potential patterns](https://www.youtube.com/watch?v=jM-gvSqsP5A)
 
-To remember, **the neuron as a banana in a salty milk pool** always works!
-
-![Alt text](https://github.com/zahramor/learn_neuro/blob/main/docs/neuron_banana.jpg)
+Just remeber [**the neuron as a banana in a salty milk pool**](https://github.com/zahramor/learn_neuro/blob/main/docs/neuron_banana.jpg)!
 
 <br />
-
-# :brain: Neuroanatomy:
-
 <br />
+
+# :brain: Neuroanatomy
+
