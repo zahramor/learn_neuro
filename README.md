@@ -17,4 +17,6 @@ Just remeber [**the neuron as a banana in a salty milk pool**](https://github.co
 <br />
 
 # :brain: Neuroanatomy
+1. [Introduction](https://neuroanatomy.ca/modules/CNSintro/story.html) (Of course the CNSintro from my neuroanatomy rockstar [Dr. Claudia](https://twitter.com/krebs_claudia) at UBC)
+2. [Sympathetic Nervous System](https://www.youtube.com/watch?v=wMZhWBq_00c) vs [Parasympathetic Nervous System](https://www.youtube.com/watch?v=13ZvxU-FS9I&t=16s)
 
