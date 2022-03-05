@@ -17,6 +17,11 @@ Just remeber [**the neuron as a banana in a salty milk pool**](https://github.co
 <br />
 
 # :brain: Neuroanatomy
-1. [Introduction](https://neuroanatomy.ca/modules/CNSintro/story.html) (Of course the CNSintro from my neuroanatomy rockstar [Dr. Claudia](https://twitter.com/krebs_claudia) at UBC)
-2. [Sympathetic Nervous System](https://www.youtube.com/watch?v=wMZhWBq_00c) vs [Parasympathetic Nervous System](https://www.youtube.com/watch?v=13ZvxU-FS9I&t=16s)
+1. [The Cortex & Brain Stem](https://neuroanatomy.ca/modules/CNSintro/story.html) (CNSintro interactive module by my neuroanatomy rockstar [Dr. Claudia](https://twitter.com/krebs_claudia) at UBC)
+2. From [UBC neuroanatomy season 1](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9), lectured by Dr. Claudia:
+    1. [The Spinal Cord](http://www.youtube.com/watch?v=IAwk0pshcDE&feature=youtu.be)
+    2. [Hypothalamus & Limbic System](http://www.youtube.com/watch?v=ErpxEwlWww4&feature=youtu.be)
+    3. [Basal Ganglia](http://www.youtube.com/watch?v=InJByqg1x-0&feature=youtu.be)
+    4. [The Cerebellum](http://www.youtube.com/watch?v=17mxfO9nklQ&feature=youtu.be)
+3. [Sympathetic Nervous System](https://www.youtube.com/watch?v=wMZhWBq_00c) vs [Parasympathetic Nervous System](https://www.youtube.com/watch?v=13ZvxU-FS9I&t=16s)
 
