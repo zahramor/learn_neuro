@@ -24,4 +24,9 @@ Just remeber [**the neuron as a banana in a salty milk pool**](https://github.co
     3. [Basal Ganglia](http://www.youtube.com/watch?v=InJByqg1x-0&feature=youtu.be)
     4. [The Cerebellum](http://www.youtube.com/watch?v=17mxfO9nklQ&feature=youtu.be)
 3. [Sympathetic Nervous System](https://www.youtube.com/watch?v=wMZhWBq_00c) vs [Parasympathetic Nervous System](https://www.youtube.com/watch?v=13ZvxU-FS9I&t=16s)
- 
+
+<br />
+<br />
+
+# :computer: Neuroimaging 
+1. [A great hands-on course on the theory and practice of brain imaging using python](https://textbook.nipraxis.org/intro.html), by Nipraxis team.
