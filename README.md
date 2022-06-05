@@ -30,3 +30,4 @@ Just remeber [**the neuron as a banana in a salty milk pool**](https://github.co
 
 # :computer: Neuroimaging 
 1. [Practice and theory of brain imaging](https://textbook.nipraxis.org/intro.html), a great hands-on course teaching the principles of fMRI data analysis using python, by Nipraxis team.
+2. Neurohackademy [2021 lectures](https://neurohackademy.org/neurohack_year/2021/)
