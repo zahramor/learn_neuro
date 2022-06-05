@@ -29,4 +29,4 @@ Just remeber [**the neuron as a banana in a salty milk pool**](https://github.co
 <br />
 
 # :computer: Neuroimaging 
-1. [A great hands-on course on the theory and practice of brain imaging using python](https://textbook.nipraxis.org/intro.html), by Nipraxis team.
+1. [A great hands-on course on the principles of fMRI data analysis using python](https://textbook.nipraxis.org/intro.html), by Nipraxis team.
