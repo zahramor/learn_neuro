@@ -1,6 +1,6 @@
 # :computer: Neuroimaging 
 1. [Practice and theory of brain imaging](https://textbook.nipraxis.org/intro.html), a great hands-on course teaching the principles of fMRI data analysis using python, by Nipraxis team.
-2. [Andy’s Brain Book](https://andysbrainbook.readthedocs.io/en/latest/index.html), This book is intended for fMRI beginners, with more advanced imaging techniques being added later on.
+2. [Andy’s Brain Book](https://andysbrainbook.readthedocs.io/en/latest/index.html) plus [Andy's Brain Blog](https://www.andysbrainblog.com/), a great resource for tutorials on fMRI and neuroimaging best practices.
 3. [Neuroimaging using FSL](https://open.win.ox.ac.uk/pages/fslcourse/website/online_materials.html), Oxford's FSL course materials including videos and slides.
 3. [Neuroimaging and Data Science](http://neuroimaging-data-science.org/root.html), a practical python-based book to learn neuroimaging, by [Ariel Rokem](https://twitter.com/arokem) and [Tal Yarkoni](https://twitter.com/talyarkoni).
 4. Neurohackademy [2021 lectures](https://neurohackademy.org/neurohack_year/2021/).
